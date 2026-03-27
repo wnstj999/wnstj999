@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Junseo Kim
+﻿# 👋 Hi, I'm Junseo Kim
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=36BCF7&lines=Backend+Developer+(Java+%2F+Python);Building+Reliable+APIs+and+Cloud+Services;AI+Features+Integrated+into+Real+Products;Spring+Boot+%7C+FastAPI+%7C+AWS+%7C+Docker)](https://git.io/typing-svg)
 
@@ -54,8 +54,8 @@ Spring Boot / FastAPI 기반 서비스 개발과 AI 기능 연동 경험을 보�
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wnstj999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnstj999&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Profile Summary](https://raw.githubusercontent.com/wnstj999/wnstj999/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
+![Top Languages](https://raw.githubusercontent.com/wnstj999/wnstj999/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
 
 ---
 
